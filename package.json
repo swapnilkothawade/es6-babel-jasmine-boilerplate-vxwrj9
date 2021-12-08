@@ -1,0 +1,18 @@
+{
+  "name": "es6-babel-jasmine-boilerplate",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "babel-polyfill": "^6.26.0",
+    "jasmine-core": "^3.10.1",
+    "karma": "^6.3.9",
+    "karma-jasmine": "^4.0.1",
+    "karma-webpack": "^5.0.0",
+    "webpack": "^5.65.0"
+  }
+}
